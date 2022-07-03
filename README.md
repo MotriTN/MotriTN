@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MotriTN
 - 👀 I’m interested in Microsoft Technologies
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on getting the knowledge
 - 📫 How to reach me : use Motri#7123 on Discord  ͡ ͜ʖ ͡ 
 
