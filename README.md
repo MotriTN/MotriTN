@@ -18,8 +18,7 @@
 
 
 
-# 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MotriTN&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-# 👥Social Life :
+
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=lmkhn8196tjt5dkp8cxa9xw9v&count=1)
