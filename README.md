@@ -3,7 +3,10 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on getting the knowledge
 - 📫 How to reach me : use Motri#7123 on Discord  ͡ ͜ʖ ͡ 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=lmkhn8196tjt5dkp8cxa9xw9v&count=1)
+
+
+
+-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=lmkhn8196tjt5dkp8cxa9xw9v&count=1)
 
 <!---
 Mohamedtrigui/MotriTN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
