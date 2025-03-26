@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohamed and I'm a E-Business and IT Student, from Sfax, Tunisia</h2>
+<h2 align="left">Hi 👋! My name is Mohamed, from Sfax, Tunisia and I'm studying E-Business and IT in ESCS</h2>
 <h3>Microsoft Learn Student Ambassador</h3>
 
 ###
